@@ -1,0 +1,5 @@
+{
+  "name": "Geo-Activity Dashboard & AI Image Generator",
+  "description": "An interactive dashboard that visualizes geographical activity data from a CSV file on a heatmap, and includes a powerful AI-driven image generator using the Gemini API.",
+  "requestFramePermissions": []
+}
